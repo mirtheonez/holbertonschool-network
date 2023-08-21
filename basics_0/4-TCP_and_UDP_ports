@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+#displaying listening ports and their corresponding PID and program names
+
+ss -tlnp
